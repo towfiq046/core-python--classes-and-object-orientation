@@ -1,0 +1,7 @@
+>>> from animals import *
+>>> Animal.description()
+'An animal'
+>>> Bird.description()
+'An animal with wings'
+>>> Flamingo.description()
+'An animal with wings and fabulous pink feathers'

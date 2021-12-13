@@ -1,0 +1,5 @@
+>>> from animals import *
+>>> Flamingo.description()
+<super: <class 'Bird'>, <Flamingo object>>
+<bound method Animal.description of <class 'animals.Flamingo'>>
+'An animal with wings and fabulous pink feathers'

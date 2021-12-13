@@ -1,0 +1,5 @@
+>>> from simple_list import *
+>>> SortedIntList()
+<super: <class 'IntList'>, <SortedIntList object>>
+<bound method SortedList.__init__ of SortedIntList([])>
+SortedIntList([])

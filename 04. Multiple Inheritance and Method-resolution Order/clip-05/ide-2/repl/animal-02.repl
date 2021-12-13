@@ -1,0 +1,8 @@
+>>> from animals import *
+>>> Flamingo.description()
+<super: <class 'Bird'>, <Flamingo object>>
+# First its using the Bird class because that's the class in which the method is defined.
+# Second its using the Flamingo class object because that's the value of the first argument to the class method.
+'An animal with wings and fabulous pink feathers'
+>>> Flamingo.__mro__
+(<class 'animals.Flamingo'>, <class 'animals.Bird'>, <class 'animals.Animal'>, <class 'object'>)
