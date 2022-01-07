@@ -1,0 +1,12 @@
+>>> from location_090 import *
+Decorating Location with auto_repr
+__module__ location_090
+__init__ <function Location.__init__ at 0x7fc094405670>
+name <property object at 0x7fc0945e47c0>
+position <property object at 0x7fc0945e4a90>
+__str__ <function Location.__str__ at 0x7fc094405820>
+__dict__ <attribute '__dict__' of 'Location' objects>
+__weakref__ <attribute '__weakref__' of 'Location' objects>
+__doc__ None
+>>> from location_090 import *
+>>>
